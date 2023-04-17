@@ -1,0 +1,55 @@
+.button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size:x-large;
+    color: beige;
+    background-color: darkslategrey;
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 10px;
+}
+
+.listtitle{
+    font-size:x-large;
+    font-weight:bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(34, 40, 121)
+}
+
+.mainbullet{
+    font-size:larger;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(13, 164, 38)
+}
+
+.subtitle{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+    font-weight: bolder;
+    color: darkslategray;
+    text-align: center;
+}
+
+.list{
+    text-align:left;
+    text-indent: 5px;
+}
+
+.settings{
+    background-color:rgb(254, 249, 242)
+}
+
+.center{
+    padding: 15px;
+    text-align: center;
+}
+#dividerline{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    font-size:x-large;
+    color:darkslategrey;
+    text-decoration-line: overline;
+    text-decoration-color: darkslategrey;
+}
